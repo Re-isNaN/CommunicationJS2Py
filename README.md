@@ -147,6 +147,9 @@ As a result, **Logistic Regression** generates a value between `0` and `1`, repr
 ---
 
 ## 🚀 Inicializar
+
+### Python e scikit-learn devem ser instalados.
+
 ### Passo 1: Abrir o projeto
 - Abra o projeto no terminal
 
@@ -157,6 +160,8 @@ As a result, **Logistic Regression** generates a value between `0` and `1`, repr
 - pesquise `http://localhost:3333/?interactions=["good","bad","good","good"]` no navegador (exemplo)
 
 ## 🚀 Getting Started
+
+### Python and scikit-learn must be installed.
 
 ### Step 1: Open the project
 - Open the project in the terminal
