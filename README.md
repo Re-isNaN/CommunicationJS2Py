@@ -30,7 +30,6 @@ On the Python side, the **scikit-learn (sklearn)** library is used with a **logi
 - 🔁 Efficient integration between distinct technologies  
 - 🧪 Practical example of interoperability between Node.js and Python using child processes
 
-
 ---
 
 ## 🧠 Tecnologias e Conceitos Utilizados
