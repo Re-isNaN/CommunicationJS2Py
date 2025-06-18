@@ -142,7 +142,7 @@ In the code, the model automatically defines the weights of each interaction bas
 As a result, **Logistic Regression** generates a value between `0` and `1`, representing the **probability of a lead converting**, enabling predictive analysis based on historical data.
 
 
-![Grafico Regressão Logistica](assets\graficoRegressaoLogistica.png)
+![Grafico Regressão Logistica](https://github.com/Re-isNaN/CommunicationJS2Py/raw/main/assets/graficoRegressaoLogistica.png)
 
 ---
 
